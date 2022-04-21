@@ -3,4 +3,4 @@
 ### Briefly, we attained accuarcy of 0.7 AUC using Random Forest (with K-fold).
 ### We found that MLP is suprior, with AUC of 0.81. This was improved using synthetic data for up to 0.867. 
 
-[Poster - Blum conference 2022 - Yuval and Shify.pptx](https://github.com/YuvalSK/Perceptual-based-classfication-of-mental-health/files/8531644/Poster.-.Blum.conference.2022.-.Yuval.and.Shify.pptx)
+[Poster - Blum conference 2022 - Yuval and Shify.pdf](https://github.com/YuvalSK/Perceptual-based-classfication-of-mental-health/files/8531648/Poster.-.Blum.conference.2022.-.Yuval.and.Shify.pdf)
